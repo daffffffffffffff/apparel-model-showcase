@@ -31,13 +31,13 @@
 
 | 文件 | 内容 |
 | --- | --- |
-| `images/01-姿势参考图.png` | 输入的姿势参考（模特人脸已打码） |
-| `images/02-白模图.png` | 第 1 步产出的中性白模 |
-| `images/03-商品俯视图-示例.png` | 商品平铺俯视图（隐私内容，已打码，仅供示例） |
-| `images/04-最终效果图.png` | 最终成图（模特人脸已打码） |
-| `images/05-原提示词-白模步.png` | 提取白模的原始提示词 |
-| `images/05-原提示词-成品步.png` | 穿衣与场景步骤的原始提示词 |
-| `images/06-工作流.png` | 工作流全景 |
+| `images/01-pose-reference.png` | 输入的姿势参考（模特人脸已打码） |
+| `images/02-mannequin.png` | 第 1 步产出的中性白模 |
+| `images/03-product-flatlay-sample.png` | 商品平铺俯视图（隐私内容，已打码，仅供示例） |
+| `images/04-final-result.png` | 最终成图（模特人脸已打码） |
+| `images/05-prompt-mannequin-step.png` | 提取白模的原始提示词 |
+| `images/05-prompt-final-step.png` | 穿衣与场景步骤的原始提示词 |
+| `images/06-workflow.png` | 工作流全景 |
 
 ## 说明
 
